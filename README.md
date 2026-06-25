@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Vaishnavi
 
-Welcome to my GitHub! I'm a Electrical Engineering student at IIT Delhi** passionate about building intelligent systems, automating workflows, and solving complex problems with code.
+Welcome to my GitHub! I'm a Electrical Engineering student at **IIT Delhi** passionate about building intelligent systems, automating workflows, and solving complex problems with code.
 
 Currently exploring **Machine Learning, Backend Development, and Automation Engineering** — transforming ideas into production-grade solutions.
 
@@ -163,7 +163,7 @@ Built and optimized a CRM system serving 8+ store locations with 20K+ customer p
 ## 🔗 Let's Connect!
 
 - **Email:** [vaishnavibisen2003@gmail.com](mailto:vaishnavibisen2003@gmail.com)
-- **LinkedIn:** [linkedin.com/in/vaishnavi-bisen](https://linkedin.com/in/vaishnavi-bisen)
+- **LinkedIn:** [linkedin.com/in/vaishnavi-bisen]([https://linkedin.com/in/vaishnavi-bisen](https://www.linkedin.com/in/vaishnavi-bisen-0b7222247))
 - **Phone:** +91-9325856903
 
 ---

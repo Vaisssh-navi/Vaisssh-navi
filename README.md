@@ -1,11 +1,11 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                      ANIMATED HEADER WAVE                      ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=220&section=header&text=Vaishnavi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Full%20Stack%20Engineer%20%7C%20IIT%20Delhi&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=220&section=header&text=Vaishnavi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Intern%20%40%20Qualcomm%20%7C%20Founding%20Engineer%20%40%20Stealth%20Startup%20%7C%20IIT%20Delhi&descSize=16&descAlignY=60&animation=fadeIn" alt="header" />
 
 <!-- ───────────────────────────  TYPING INTRO  ─────────────────────────── -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=667EEA&center=true&vCenter=true&width=900&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaishnavi;AI+Full+Stack+Engineer+%40+Qualcomm+%F0%9F%8C%9F;Full+Stack+Developer+%7C+C%2B%2B+%7C+Python+%7C+LLMs;IIT+Delhi+%7C+Top+0.6%25+JEE+Advanced;Building+Intelligent+Systems+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=667EEA&center=true&vCenter=true&width=900&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaishnavi;Full+Stack+AI+Engineer;Intern+%40+Qualcomm+%F0%9F%8C%9F;Founding+Engineer+%40+Stealth+Startup;Building+Intelligent+Systems+%E2%9A%A1" alt="Typing SVG" />
 </h1>
 
 <!-- ───────────────────────────  STAT BADGES  ─────────────────────────── -->
@@ -46,33 +46,25 @@
 
 ```python
 vaishnavi = {
-    "role": "Intern @ Qualcomm",
+    "role": "Full Stack AI Engineer | Intern @ Qualcomm | Founding Engineer @ Stealth Startup",
     "education": "IIT Delhi | B.Tech Electrical Engineering (2022-2026)",
     "gpa": "7.61/10.0",
-    "jee_rank": 1484,  # Top 0.6% of 250K candidates
     "languages": ["C++", "Python", "Java", "JavaScript", "SQL", "TCL", "HTML", "CSS"],
-    "ml_expertise": ["LLMs", "Vision-Language Models", "Learning-to-Rank", "Fine-tuning"],
+    "ai_expertise": ["LLMs", "LangChain", "LangGraph", "RAG", "Vision-Language Models", "Learning-to-Rank", "Fine-tuning", "Prompt Engineering"],
     "fullstack": ["React", "Node.js", "REST APIs", "Database Optimization", "Automation"],
     "cloud": ["AWS", "Gradio", "Streamlit"],
     "current_focus": "Building intelligent systems with AI ⚡",
-    "achievements": {
-        "qualcomm": "33% design cycle acceleration, 50 engineers impacted",
-        "lovely_pets": "50% query latency reduction, 20K+ customer profiles",
-        "projects": "4 production-grade systems deployed"
-    },
     "motto": "Code. Learn. Scale. Repeat."
 }
 ```
 
-🔬 &nbsp;**AI Engineer @ Qualcomm** — Building intelligent automation frameworks and LLM-powered solutions.
+🔬 &nbsp;**Intern @ Qualcomm** — Building LLM-powered automation frameworks and intelligent solutions.
 
-💡 &nbsp;Passionate about **LLMs, full stack development, optimization, and production AI pipelines**.
+💡 &nbsp;Passionate about **LLMs, LangChain, RAG, Prompt Engineering, full stack development, and production AI pipelines**.
 
 🎓 &nbsp;**IIT Delhi** | Electrical Engineering | **GPA: 7.61/10**
 
-📊 &nbsp;Built systems handling **500K+ transactions, 20K+ profiles, and 50+ users at scale**.
-
-🚀 &nbsp;Fluent in **C++ · Python · React · Node.js · JavaScript · LLMs · XGBoost · MySQL · AWS**.
+🚀 &nbsp;Fluent in **C++ · Python · React · Node.js · LangChain · LangGraph · RAG · LLMs · XGBoost · AWS**.
 
 <br clear="right"/>
 
@@ -92,11 +84,11 @@ vaishnavi = {
   </tr>
   <tr>
     <td align="center"><strong>🤖 ML & AI</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> <img src="https://img.shields.io/badge/LLMs-FFD700?style=flat-square&logo=openai&logoColor=black" /> <img src="https://img.shields.io/badge/XGBoost-FF6B00?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAA7DAAAOwwHHb6thAAAA0klEQVQYV2NgYGD4z8DAwMjIyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA8P8/AwMDAwMDAwMDA8P/DAwM/w0MDAwMDAwM/wcYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGBgYGD4/x+AwQEAu+cQx63TmXoAAAAASUVORK5CYII=" /> <img src="https://img.shields.io/badge/QLoRA-667EEA?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /></td>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> <img src="https://img.shields.io/badge/LLMs-FFD700?style=flat-square&logo=openai&logoColor=black" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-667EEA?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-FF6B00?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/QLoRA-764BA2?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /></td>
   </tr>
   <tr>
     <td align="center"><strong>🌐 Full Stack Dev</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nodejs,express" /> <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Gradio-667EEA?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF6B6B?style=flat-square&logo=streamlit&logoColor=white" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nodejs,express" /><img src="https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logoColor=white" /><img src="https://img.shields.io/badge/Gradio-667EEA?style=flat-square&logoColor=white" /><img src="https://img.shields.io/badge/Streamlit-FF6B6B?style=flat-square&logo=streamlit&logoColor=white" /></td>
   </tr>
   <tr>
     <td align="center"><strong>💾 Databases</strong></td>
@@ -122,25 +114,23 @@ vaishnavi = {
     <td width="50%" valign="top">
       <h3 align="center">🤖 Visual Question Answering</h3>
       <p align="center">
-        <em>Chart QA System with mPLUG-Owl2</em><br><br>
-        Production-grade system understanding images and answering complex questions with 18% accuracy improvement.
+        Chart QA system with mPLUG-Owl2. 18% accuracy improvement on vision-language understanding.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/LLMs-FFD700?style=flat-square&logo=openai&logoColor=black" />
-        <img src="https://img.shields.io/badge/Gradio-667EEA?style=flat-square&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎯 Offer Ranking System</h3>
       <p align="center">
-        <em>Learning-to-Rank for 500K+ Transactions</em><br><br>
-        ML-powered recommendation engine optimizing conversions for 10K+ users with 32% relevance gain.
+        Learning-to-rank engine optimizing conversions for 500K+ daily transactions with 32% relevance improvement.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/XGBoost-FF6B00?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/LambdaMART-667EEA?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/ML-667EEA?style=flat-square&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -148,25 +138,71 @@ vaishnavi = {
     <td width="50%" valign="top">
       <h3 align="center">🔍 Search Engine & Q&A</h3>
       <p align="center">
-        <em>Rabin-Karp Algorithm Implementation</em><br><br>
-        High-performance search across 100K+ documents with <100ms latency and 85% precision.
+        Rabin-Karp substring matching across 100K+ documents with <100ms latency and 85% precision.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data_Structures-764BA2?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/DSA-764BA2?style=flat-square&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧮 Expression Compiler</h3>
       <p align="center">
-        <em>E++ Custom Compiler</em><br><br>
-        Arbitrary-precision integer evaluator with 40% runtime improvement and 25% memory reduction.
+        Custom E++ compiler with arbitrary-precision arithmetic. 40% runtime improvement, 25% memory reduction.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/Compilers-667EEA?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/OOP-764BA2?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Job Helper</h3>
+      <p align="center">
+        AI job analyzer & resume matcher. Local RAG, Mistral LLM, QLoRA fine-tuning, zero cloud uploads.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-667EEA?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💬 Chatbot Suite</h3>
+      <p align="center">
+        6 LangChain + Streamlit chatbot implementations: context-aware, doc Q&A, internet search, SQL chat.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF6B6B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 Text Normalization</h3>
+      <p align="center">
+        Rule-based noisy text cleaner for negotiation data. Email fix, number conversion, currency normalization, name correction.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-667EEA?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/ONNX-FF6B00?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 MCP Document Server</h3>
+      <p align="center">
+        Document intelligence with dual-cited RAG answers. Vector + graph + keyword retrieval. 5 MCP tools, 28 unit tests.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/KuzuDB-667EEA?style=flat-square&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -185,7 +221,7 @@ vaishnavi = {
   <tr>
     <td width="33%" align="center">
       <h3>⚡ Qualcomm</h3>
-      <p><strong>AI Engineer Intern</strong><br/>May 2025 – Jul 2025</p>
+      <p><strong>Intern</strong><br/>May 2025 – Jul 2025</p>
       <p><em>LLM-Powered Automation</em></p>
       <ul style="text-align: left;">
         <li>33% design cycle acceleration</li>
@@ -205,35 +241,21 @@ vaishnavi = {
     </td>
     <td width="33%" align="center">
       <h3>🎓 IIT Delhi</h3>
-      <p><strong>Student Researcher</strong><br/>2023 – 2025</p>
-      <p><em>ML & Systems</em></p>
+      <p><strong>Student</strong><br/>2022 – 2026</p>
+      <p><em>Electrical Engineering</em></p>
       <ul style="text-align: left;">
-        <li>4 production projects</li>
         <li>GPA: 7.61/10</li>
-        <li>Top 0.6% JEE</li>
+        <li>Data Structures & Algorithms</li>
+        <li>Operating Systems</li>
+        <li>Machine Learning & Optimization</li>
+        <li>Linear Algebra</li>
+        <li>Computer Architecture</li>
       </ul>
     </td>
   </tr>
 </table>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        GITHUB STATS                            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<h2>
-  <img src="https://media.giphy.com/media/W5euZGTM6sZHimkXh4/giphy.gif" width="30"> GitHub Analytics
-</h2>
-
-<!-- ───────────────────────────  ACTIVITY GRAPH  ─────────────────────────── -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaisssh-navi&bg_color=0d1117&color=667EEA&line=764BA2&point=F093FB&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaisssh-navi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaisssh-navi&layout=compact&langs_count=8&theme=algolia" />
-</p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
 
@@ -256,16 +278,16 @@ vaishnavi = {
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%A5%87%20JEE%20Advanced%20Rank%3A%201484-667EEA?style=for-the-badge" alt="JEE Advanced" />
-  <img src="https://img.shields.io/badge/%F0%9F%A5%88%20Top%200.6%25%20of%20250K-764BA2?style=for-the-badge" alt="Top 0.6%" />
-  <img src="https://img.shields.io/badge/%F0%9F%A5%89%20JEE%20Mains%3A%20Top%200.73%25-F093FB?style=for-the-badge" alt="JEE Mains" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93%20IIT%20Delhi-667EEA?style=for-the-badge" alt="IIT Delhi" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%95%20Electrical%20Engineering-764BA2?style=for-the-badge" alt="Electrical Engineering" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Building%20AI%20Systems-F093FB?style=for-the-badge" alt="AI Systems" />
 </p>
 
 <table align="center">
   <tr>
     <th>Achievement</th>
-    <th>Score/Rank</th>
-    <th>Percentile</th>
+    <th>Details</th>
+    <th>Recognition</th>
   </tr>
   <tr>
     <td><strong>JEE Advanced</strong></td>
@@ -274,8 +296,18 @@ vaishnavi = {
   </tr>
   <tr>
     <td><strong>JEE Mains</strong></td>
-    <td>—</td>
+    <td>Top Percentile</td>
     <td>Top 0.73% (1.5M)</td>
+  </tr>
+  <tr>
+    <td><strong>IIT Delhi</strong></td>
+    <td>B.Tech Electrical Engineering</td>
+    <td>2022 - 2026</td>
+  </tr>
+  <tr>
+    <td><strong>GPA</strong></td>
+    <td>7.61/10.0</td>
+    <td>Excellent Standing</td>
   </tr>
   <tr>
     <td><strong>MHT-CET (PCM)</strong></td>
